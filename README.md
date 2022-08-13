@@ -26,3 +26,6 @@
 
 - 印刷プレビューから印刷するとはがきの背景画像も印刷されてしまいます。プレビューにのみ使用してください。
 
+## :package: 関連
+
+- [LiteDB](https://github.com/mbdavid/LiteDB)
